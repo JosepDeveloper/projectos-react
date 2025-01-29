@@ -1,0 +1,26 @@
+{
+  "resultsSectionOrder": [
+    "INTEREST",
+    "TITLE",
+    "NAME"
+  ],
+  "findPageMeta": {
+    "searchTerm": "dalkdhjlkajdlajdlkajldkajs",
+    "includeAdult": false,
+    "isExactMatch": false
+  },
+  "keywordResults": {
+    "results": []
+  },
+  "titleResults": {
+    "results": [],
+    "hasExactMatches": false
+  },
+  "nameResults": {
+    "results": [],
+    "hasExactMatches": false
+  },
+  "companyResults": {
+    "results": []
+  }
+}
