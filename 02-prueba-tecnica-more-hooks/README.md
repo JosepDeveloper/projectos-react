@@ -17,5 +17,5 @@ Crea una apliacion para buscar peliculas.
 ## Primera Iteración:
 
 - [x] Evitar que se haga la misma busqueda dos veces seguidas.
-- [] Haz que la busqueda se haga automaticamente al escribir.
-- [] Evita que la busqueda se haga continuamente al escribir (debounce).
+- [x] Haz que la busqueda se haga automaticamente al escribir.
+- [x] Evita que la busqueda se haga continuamente al escribir (debounce).
